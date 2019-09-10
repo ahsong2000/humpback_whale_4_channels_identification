@@ -2,6 +2,7 @@
 Can you identify a whale by its tail?
 
 !(/images/happy_whale.png)
+![GitHub Logo](/images/happy_whale.png)
 
 Siamese Neural Networks:
 1. Twin networks (CNN) which accept distinct images and learn the structural feature representation
