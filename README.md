@@ -1,5 +1,6 @@
 # humpback_whale_4_channels_identification
 Can you identify a whale by its tail?
+
 Author: Chuen-Song (Ahsong) Chen    |     Email: ahsong.chen@gmail.com    
 
 ![GitHub Logo](/images/happy_whale.png)
